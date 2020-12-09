@@ -113,3 +113,6 @@ import math
 
 from PIL import Image
 from colour import Color
+
+from manimlib.chem_objects import *
+from manimlib.compounds import *

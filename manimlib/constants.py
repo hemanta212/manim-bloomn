@@ -5,6 +5,7 @@ MEDIA_DIR = ""
 VIDEO_DIR = ""
 VIDEO_OUTPUT_DIR = ""
 TEX_DIR = ""
+FILE_DIR = "./manim/manimlib/files"
 
 def initialize_directories(config):
     global MEDIA_DIR
